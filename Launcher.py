@@ -1,9 +1,3 @@
-"""
-Flashing Lights — Community Launcher
-Красивый тёмный лаунчер с автоустановкой и контролем версий (как в Steam).
-Зависимости: pip install customtkinter pillow requests gdown
-"""
-
 import os
 import sys
 import json
